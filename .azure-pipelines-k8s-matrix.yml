@@ -1,7 +1,7 @@
 variables:
   YARN_CACHE_FOLDER: $(Pipeline.Workspace)/.yarn
   node_version: 12.x
-priting:/*kil/mod
+pri:
   branches:
     include:
     - master
